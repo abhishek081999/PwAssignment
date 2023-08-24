@@ -1,0 +1,5 @@
+npm create vite@latest
+cd----------
+npm i
+npm run dev
+npm i react-icons
